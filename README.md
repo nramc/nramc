@@ -24,6 +24,7 @@ I'm a **Senior Full Stack Web Developer** with a strong focus on **Java** and **
 
 ## 📊 GitHub Stats
 ![Ramachandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=nramc&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nramc&layout=compact&theme=radical)
 
 ## 🏆 Top Repositories
 - [**Project Name**](https://github.com/nramc/project-name): Brief description of what the project does.
