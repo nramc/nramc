@@ -27,18 +27,19 @@ I'm a **Senior Full Stack Web Developer** with a strong focus on **Java** and **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nramc&layout=compact&theme=radical)
 
 ## 🏆 Top Repositories
-- [**Project Name**](https://github.com/nramc/project-name): Brief description of what the project does.
-- [**Another Project**](https://github.com/nramc/another-project): Highlight the tech stack and its purpose.
+- [**Journeys**](https://github.com/nramc/journeys): Angular SPA to track all your travels and memories with narration, images and videos.
+- [**Journey API**](https://github.com/nramc/journey-api): Java SpringBoot REST API for Journey to track all your Journeys.
+- [**My Notes**](https://github.com/nramc/my-notes): Simple web application to maintain all your Code snippets, Reference and How-Tos
 
 ---
 
 ### 🌟 Featured Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ---
 
