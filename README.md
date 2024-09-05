@@ -1,20 +1,20 @@
 # 👋 Hi, I’m Ramachandran Nellaiyappan (@nramc)
 
-I'm a **Senior Full Stack Web Developer** with a strong focus on **Java** and **web technologies**. I have extensive experience in building robust, scalable, and maintainable web applications, with a keen interest in exploring new frameworks and tools.
+I'm a **Senior Java Web Developer** with a strong focus on **Java** and **Springboot**. I have extensive experience in building robust, scalable, and maintainable web applications, with a keen interest in exploring new frameworks and tools.
 
 ## 👀 Interests
 - **Full Stack Web Development**: Passionate about developing end-to-end web applications using modern frameworks and best practices.
 - **Java Technologies**: Expertise in Java, Spring Boot, Hibernate, and RESTful API development.
-- **Front-End Development**: Currently deepening my skills in **ReactJS** to build dynamic and responsive user interfaces.
-- **Cloud and DevOps**: Interested in cloud deployments, CI/CD pipelines, and containerization with Docker and Kubernetes.
+- **Front-End Development**: Currently deepening my skills in **Angular** to build dynamic and responsive user interfaces.
+- **DevOps**: Interested in CI/CD pipelines, and containerization with Docker and Kubernetes.
 
 ## 🌱 Currently Learning
-- **ReactJS**: Enhancing my front-end development skills by mastering ReactJS, focusing on building component-based, reusable UI elements.
-- **Microservices Architecture**: Exploring best practices in designing and implementing microservices with Spring Boot and cloud technologies.
+- **Angullar**: Enhancing my front-end development skills by mastering Angular, focusing on building real time web applications.
+- **PassKey Authentication**: Exploring PassKey based authenntication with Spring Boot and Spring Security.
 
 ## 💼 Looking to Collaborate On
 - **Full Stack Projects**: Open to collaborating on projects that involve end-to-end development, from designing the architecture to deploying applications.
-- **Open Source Contributions**: Eager to contribute to open source projects, particularly in the Java ecosystem or in modern front-end frameworks like ReactJS.
+- **Open Source Contributions**: Eager to contribute to open source projects, particularly in the Java ecosystem.
 
 ## 📫 How to Reach Me
 - 📧 [Email](mailto:ramachandrannellai@gmail.com "ramachandrannellai@gmail.com"): Feel free to reach out for collaborations, questions, or just a chat about technology!
@@ -29,7 +29,7 @@ I'm a **Senior Full Stack Web Developer** with a strong focus on **Java** and **
 ## 🏆 Top Repositories
 - [**Journeys**](https://github.com/nramc/journeys): Angular SPA to track all your travels and memories with narration, images and videos.
 - [**Journey API**](https://github.com/nramc/journey-api): Java SpringBoot REST API for Journey to track all your Journeys.
-- [**My Notes**](https://github.com/nramc/my-notes): Simple web application to maintain all your Code snippets, Reference and How-Tos
+- [**My Notes**](https://github.com/nramc/my-notes): Simple web application to maintain and share useful Code Snippets, Reference and How-Tos
 
 ---
 
