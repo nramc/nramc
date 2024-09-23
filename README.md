@@ -9,7 +9,7 @@ I'm a **Senior Java Web Developer** with a strong focus on **Java** and **Spring
 - **DevOps**: Interested in CI/CD pipelines, and containerization with Docker and Kubernetes.
 
 ## 🌱 Currently Learning
-- **Angullar**: Enhancing my front-end development skills by mastering Angular, focusing on building real time web applications.
+- **Micro Frontend with Angular**: Enhancing my front-end development skills by mastering Angular, focusing on building real time web applications.
 - **PassKey Authentication**: Exploring PassKey based authenntication with Spring Boot and Spring Security.
 
 ## 💼 Looking to Collaborate On
