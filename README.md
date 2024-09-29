@@ -6,7 +6,7 @@ I'm a **Senior Java Web Developer** with a strong focus on **Java** and **Spring
 - **Full Stack Web Development**: Passionate about developing end-to-end web applications using modern frameworks and best practices.
 - **Java Technologies**: Expertise in Java, Spring Boot, Hibernate, and RESTful API development.
 - **Front-End Development**: Currently deepening my skills in **Angular** to build dynamic and responsive user interfaces.
-- **DevOps**: Interested in CI/CD pipelines, and containerization with Docker and Kubernetes.
+- **DevOps & Automations**: Interested in CI/CD pipelines, and containerization with Docker and Kubernetes.
 
 ## 🌱 Currently Learning
 - **Micro Frontend with Angular**: Enhancing my front-end development skills by mastering Angular, focusing on building real time web applications.
