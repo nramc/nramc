@@ -16,8 +16,8 @@ I'm a **Senior Java Web Developer** with a strong focus on **Java** and **Spring
 - **Full Stack Projects**: Open to collaborating on projects that involve end-to-end development, from designing the architecture to deploying applications.
 - **Open Source Contributions**: Eager to contribute to open source projects, particularly in the Java ecosystem.
 
-## 📫 How to Reach Me
-- https://nramc.github.io/my-profile/contact.html
+## 📫 Contact
+[Ramachandran Nellaiyappan](https://nramc.github.io/my-profile/contact.html)
 
 
 ## 📊 GitHub Stats
