@@ -17,10 +17,8 @@ I'm a **Senior Java Web Developer** with a strong focus on **Java** and **Spring
 - **Open Source Contributions**: Eager to contribute to open source projects, particularly in the Java ecosystem.
 
 ## 📫 How to Reach Me
-- 📧 [Email](mailto:ramachandrannellai@gmail.com "ramachandrannellai@gmail.com"): Feel free to reach out for collaborations, questions, or just a chat about technology!
-- 🐦 [Twitter](https://twitter.com/ram_n_74 "Follow me on Twitter"): I share updates on technology, programming tips, and more.
-- 💼 [LinkedIn](http://www.linkedin.com/in/ramachandran-nellaiyappan "Connect with me on LinkedIn"): Let's connect professionally!
-- 📘 [Facebook](https://www.facebook.com/Ramachandrannn "Follow me on Facebook"): Stay connected on Facebook.
+- https://nramc.github.io/my-profile/contact.html
+
 
 ## 📊 GitHub Stats
 ![Ramachandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=nramc&show_icons=true&theme=radical)
