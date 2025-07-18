@@ -7,6 +7,7 @@ I'm a **Java Web Developer** with a strong focus on **Java** and **Springboot**.
 - **Java Technologies**: Expertise in Java, Spring Boot, Hibernate, and RESTful API development.
 - **Front-End Development**: Currently deepening my skills in **Angular** to build dynamic and responsive user interfaces.
 - **CICD & Automations**: Interested in CI/CD pipeline with various improvements & automations and containerization with Docker & Kubernetes.
+- **Knowledge Sharer**: Sharing real-world developer insights and hands-on guides on clean code, security, and system design at [blog.codewithram.dev](https://blog.codewithram.dev/).
 
 ## 🌱 Currently Learning
 - **Micro Frontend with Angular**: Enhancing my front-end development skills by mastering Angular, focusing on building real time web applications.
