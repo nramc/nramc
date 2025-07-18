@@ -10,7 +10,7 @@ I'm a **Java Web Developer** with a strong focus on **Java** and **Springboot**.
 
 ## 🌱 Currently Learning
 - **Micro Frontend with Angular**: Enhancing my front-end development skills by mastering Angular, focusing on building real time web applications.
-- **PassKey Authentication**: Exploring PassKey based authenntication with Spring Boot and Spring Security.
+- **AI Explorer**: Exploring how AI can boost developer productivity and streamline secure software delivery.
 
 ## 💼 Looking to Collaborate On
 - **Full Stack Projects**: Open to collaborating on projects that involve end-to-end development, from designing the architecture to deploying applications.
